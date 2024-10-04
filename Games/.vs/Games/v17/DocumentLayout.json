@@ -60,7 +60,7 @@
               "RelativeDocumentMoniker": "GameStats\\GameStats.cpp",
               "ToolTip": "A:\\C\u002B\u002B\\Training\\CPP_Practice\\Games\\GameStats\\GameStats.cpp",
               "RelativeToolTip": "GameStats\\GameStats.cpp",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAiwCEAAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAAcAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-09-22T17:20:42.346Z",
               "EditorCaption": ""
@@ -75,8 +75,7 @@
               "RelativeToolTip": "ExpensiveCalculator\\ExpensiveCalculator.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-09-22T16:58:20.697Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-22T16:58:20.697Z"
             },
             {
               "$type": "Document",
@@ -88,8 +87,7 @@
               "RelativeToolTip": "GameOver\\GameOver.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-09-22T16:13:14.39Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-22T16:13:14.39Z"
             }
           ]
         }

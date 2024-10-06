@@ -1,12 +1,9 @@
 ﻿#include <iostream>
 #include <string>
-#include <windows.h>
 using namespace std;
 
 int main()
 {
-    SetConsoleOutputCP(CP_UTF8);
-    SetConsoleCP(CP_UTF8);
 
     int score;
     double distance;
@@ -48,7 +45,7 @@ int main()
         cerr << "Аргумент вне диапазона: " << e.what() << endl;
     }
     cout << "fuel: " << fuel << endl;
-
+    // Дапть своё имя типу.
     typedef unsigned short int ushort;
     ushort bonus = 10;
     cout << "\nbonus: " << bonus << endl;

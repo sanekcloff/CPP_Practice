@@ -3,6 +3,22 @@
   "WorkspaceRootPath": "A:\\C\u002B\u002B\\Training\\CPP_Practice\\Games\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A15D64CE-41A3-4420-86D5-CA25E1DAD819}|String Tester\\String Tester.vcxproj|A:\\C\u002B\u002B\\Training\\CPP_Practice\\Games\\String Tester\\String Tester.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A15D64CE-41A3-4420-86D5-CA25E1DAD819}|String Tester\\String Tester.vcxproj|solutionrelative:String Tester\\String Tester.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B3BE607-4184-4116-A9C0-EEC774C305F8}|Guess My Number\\Guess My Number.vcxproj|A:\\C\u002B\u002B\\Training\\CPP_Practice\\Games\\Guess My Number\\Guess My Number.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1B3BE607-4184-4116-A9C0-EEC774C305F8}|Guess My Number\\Guess My Number.vcxproj|solutionrelative:Guess My Number\\Guess My Number.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A844AD48-D19C-4561-BFAA-B4220EBDD2D5}|Die Roller\\Die Roller.vcxproj|A:\\C\u002B\u002B\\Training\\CPP_Practice\\Games\\Die Roller\\Die Roller.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A844AD48-D19C-4561-BFAA-B4220EBDD2D5}|Die Roller\\Die Roller.vcxproj|solutionrelative:Die Roller\\Die Roller.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95CE123A-58AD-4B28-BA97-12E8B9F4D927}|Menu Chooser\\Menu Chooser.vcxproj|A:\\C\u002B\u002B\\Training\\CPP_Practice\\Games\\Menu Chooser\\Menu Chooser.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{95CE123A-58AD-4B28-BA97-12E8B9F4D927}|Menu Chooser\\Menu Chooser.vcxproj|solutionrelative:Menu Chooser\\Menu Chooser.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{06D00BE6-BF6B-456F-93C3-A790266081AE}|Score Rater 3.0\\Score Rater 3.0.vcxproj|A:\\C\u002B\u002B\\Training\\CPP_Practice\\Games\\Score Rater 3.0\\Score Rater 3.0.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{06D00BE6-BF6B-456F-93C3-A790266081AE}|Score Rater 3.0\\Score Rater 3.0.vcxproj|solutionrelative:Score Rater 3.0\\Score Rater 3.0.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -79,6 +95,56 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "String Tester.cpp",
+              "DocumentMoniker": "A:\\C\u002B\u002B\\Training\\CPP_Practice\\Games\\String Tester\\String Tester.cpp",
+              "RelativeDocumentMoniker": "String Tester\\String Tester.cpp",
+              "ToolTip": "A:\\C\u002B\u002B\\Training\\CPP_Practice\\Games\\String Tester\\String Tester.cpp",
+              "RelativeToolTip": "String Tester\\String Tester.cpp",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAYwBIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-28T17:56:14.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Guess My Number.cpp",
+              "DocumentMoniker": "A:\\C\u002B\u002B\\Training\\CPP_Practice\\Games\\Guess My Number\\Guess My Number.cpp",
+              "RelativeDocumentMoniker": "Guess My Number\\Guess My Number.cpp",
+              "ToolTip": "A:\\C\u002B\u002B\\Training\\CPP_Practice\\Games\\Guess My Number\\Guess My Number.cpp",
+              "RelativeToolTip": "Guess My Number\\Guess My Number.cpp",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAkwB0AAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-26T18:21:42.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Die Roller.cpp",
+              "DocumentMoniker": "A:\\C\u002B\u002B\\Training\\CPP_Practice\\Games\\Die Roller\\Die Roller.cpp",
+              "RelativeDocumentMoniker": "Die Roller\\Die Roller.cpp",
+              "ToolTip": "A:\\C\u002B\u002B\\Training\\CPP_Practice\\Games\\Die Roller\\Die Roller.cpp",
+              "RelativeToolTip": "Die Roller\\Die Roller.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-26T14:50:03.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Menu Chooser.cpp",
+              "DocumentMoniker": "A:\\C\u002B\u002B\\Training\\CPP_Practice\\Games\\Menu Chooser\\Menu Chooser.cpp",
+              "RelativeDocumentMoniker": "Menu Chooser\\Menu Chooser.cpp",
+              "ToolTip": "A:\\C\u002B\u002B\\Training\\CPP_Practice\\Games\\Menu Chooser\\Menu Chooser.cpp",
+              "RelativeToolTip": "Menu Chooser\\Menu Chooser.cpp",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-26T11:10:21.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Score Rater 3.0.cpp",
               "DocumentMoniker": "A:\\C\u002B\u002B\\Training\\CPP_Practice\\Games\\Score Rater 3.0\\Score Rater 3.0.cpp",
               "RelativeDocumentMoniker": "Score Rater 3.0\\Score Rater 3.0.cpp",
@@ -86,12 +152,11 @@
               "RelativeToolTip": "Score Rater 3.0\\Score Rater 3.0.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAYwBkAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-25T17:40:34.198Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-25T17:40:34.198Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "Score Rater 2.0.cpp",
               "DocumentMoniker": "A:\\C\u002B\u002B\\Training\\CPP_Practice\\Games\\Score Rater 2.0\\Score Rater 2.0.cpp",
               "RelativeDocumentMoniker": "Score Rater 2.0\\Score Rater 2.0.cpp",
@@ -99,12 +164,11 @@
               "RelativeToolTip": "Score Rater 2.0\\Score Rater 2.0.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-25T17:35:03.153Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-25T17:35:03.153Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "Score Rater.cpp",
               "DocumentMoniker": "A:\\C\u002B\u002B\\Training\\CPP_Practice\\Games\\Score Rater\\Score Rater.cpp",
               "RelativeDocumentMoniker": "Score Rater\\Score Rater.cpp",
@@ -112,12 +176,11 @@
               "RelativeToolTip": "Score Rater\\Score Rater.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-05T17:16:58.488Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-05T17:16:58.488Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "Lost Fortune.cpp",
               "DocumentMoniker": "A:\\C\u002B\u002B\\Training\\CPP_Practice\\Games\\Lost Fortune\\Lost Fortune.cpp",
               "RelativeDocumentMoniker": "Lost Fortune\\Lost Fortune.cpp",
@@ -125,12 +188,11 @@
               "RelativeToolTip": "Lost Fortune\\Lost Fortune.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-05T14:44:38.803Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-05T14:44:38.803Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "Game Stats 3.0.cpp",
               "DocumentMoniker": "A:\\C\u002B\u002B\\Training\\CPP_Practice\\Games\\Game Stats 3.0\\Game Stats 3.0.cpp",
               "RelativeDocumentMoniker": "Game Stats 3.0\\Game Stats 3.0.cpp",
@@ -142,7 +204,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "Game Stats 2.0.cpp",
               "DocumentMoniker": "A:\\C\u002B\u002B\\Training\\CPP_Practice\\Games\\Game Stats 2.0\\Game Stats 2.0.cpp",
               "RelativeDocumentMoniker": "Game Stats 2.0\\Game Stats 2.0.cpp",
@@ -154,7 +216,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "GameStats.cpp",
               "DocumentMoniker": "A:\\C\u002B\u002B\\Training\\CPP_Practice\\Games\\GameStats\\GameStats.cpp",
               "RelativeDocumentMoniker": "GameStats\\GameStats.cpp",
@@ -166,7 +228,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 11,
               "Title": "ExpensiveCalculator.cpp",
               "DocumentMoniker": "A:\\C\u002B\u002B\\Training\\CPP_Practice\\Games\\ExpensiveCalculator\\ExpensiveCalculator.cpp",
               "RelativeDocumentMoniker": "ExpensiveCalculator\\ExpensiveCalculator.cpp",
@@ -178,7 +240,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 12,
               "Title": "GameOver.cpp",
               "DocumentMoniker": "A:\\C\u002B\u002B\\Training\\CPP_Practice\\Games\\GameOver\\GameOver.cpp",
               "RelativeDocumentMoniker": "GameOver\\GameOver.cpp",

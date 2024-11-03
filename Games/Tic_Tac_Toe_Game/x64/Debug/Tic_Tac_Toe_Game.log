@@ -1,0 +1,4 @@
+﻿  Tic_Tac_Toe_Game.cpp
+A:\C++\Training\CPP_Practice\Games\Tic_Tac_Toe_Game\Tic_Tac_Toe_Game.cpp(107,63): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+A:\C++\Training\CPP_Practice\Games\Tic_Tac_Toe_Game\Tic_Tac_Toe_Game.cpp(111,63): warning C4267: аргумент: преобразование из "size_t" в "int"; возможна потеря данных
+  Tic_Tac_Toe_Game.vcxproj -> A:\C++\Training\CPP_Practice\Games\x64\Debug\Tic_Tac_Toe_Game.exe

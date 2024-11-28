@@ -3,28 +3,24 @@
   "WorkspaceRootPath": "A:\\C\u002B\u002B\\Training\\CPP_Practice\\Games\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{42D12554-128E-40E0-9597-E1EBCE0BE2E6}|Tic_Tac_Toe_Game\\Tic_Tac_Toe_Game.vcxproj|A:\\C\u002B\u002B\\Training\\CPP_Practice\\Games\\Tic_Tac_Toe_Game\\Tic_Tac_Toe_Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{42D12554-128E-40E0-9597-E1EBCE0BE2E6}|Tic_Tac_Toe_Game\\Tic_Tac_Toe_Game.vcxproj|solutionrelative:Tic_Tac_Toe_Game\\Tic_Tac_Toe_Game.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{C6CE5BF7-48E6-412D-B287-913B1E4D4559}|Game Lobby\\Game Lobby.vcxproj|A:\\C\u002B\u002B\\Training\\CPP_Practice\\Games\\Game Lobby\\Lobby.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C6CE5BF7-48E6-412D-B287-913B1E4D4559}|Game Lobby\\Game Lobby.vcxproj|solutionrelative:Game Lobby\\Lobby.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{05F4D14A-5D46-49E4-90B9-0C25F07467D0}|Hero\u0027s Invetory 3.0\\Hero\u0027s Invetory 3.0.vcxproj|A:\\C\u002B\u002B\\Training\\CPP_Practice\\Games\\Hero\u0027s Invetory 3.0\\Hero\u0027s Invetory 3.0.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{05F4D14A-5D46-49E4-90B9-0C25F07467D0}|Hero\u0027s Invetory 3.0\\Hero\u0027s Invetory 3.0.vcxproj|solutionrelative:Hero\u0027s Invetory 3.0\\Hero\u0027s Invetory 3.0.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{C6CE5BF7-48E6-412D-B287-913B1E4D4559}|Game Lobby\\Game Lobby.vcxproj|A:\\C\u002B\u002B\\Training\\CPP_Practice\\Games\\Game Lobby\\Lobby.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C6CE5BF7-48E6-412D-B287-913B1E4D4559}|Game Lobby\\Game Lobby.vcxproj|solutionrelative:Game Lobby\\Lobby.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{27DCA6BA-0D77-454A-B454-4296345E2515}|High Scores\\High Scores.vcxproj|A:\\C\u002B\u002B\\Training\\CPP_Practice\\Games\\High Scores\\High Scores.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{27DCA6BA-0D77-454A-B454-4296345E2515}|High Scores\\High Scores.vcxproj|solutionrelative:High Scores\\High Scores.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{C6CE5BF7-48E6-412D-B287-913B1E4D4559}|Game Lobby\\Game Lobby.vcxproj|A:\\C\u002B\u002B\\Training\\CPP_Practice\\Games\\Game Lobby\\Game Lobby.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C6CE5BF7-48E6-412D-B287-913B1E4D4559}|Game Lobby\\Game Lobby.vcxproj|solutionrelative:Game Lobby\\Game Lobby.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CAB017E0-28E2-496E-98AE-8AEDE85550AC}|Hangman\\Hangman.vcxproj|A:\\C\u002B\u002B\\Training\\CPP_Practice\\Games\\Hangman\\Hangman.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{CAB017E0-28E2-496E-98AE-8AEDE85550AC}|Hangman\\Hangman.vcxproj|solutionrelative:Hangman\\Hangman.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{C6CE5BF7-48E6-412D-B287-913B1E4D4559}|Game Lobby\\Game Lobby.vcxproj|A:\\C\u002B\u002B\\Training\\CPP_Practice\\Games\\Game Lobby\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C6CE5BF7-48E6-412D-B287-913B1E4D4559}|Game Lobby\\Game Lobby.vcxproj|solutionrelative:Game Lobby\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{088F50FA-763D-4DB9-B922-BC0835ECCF3F}|Swap\\Swap.vcxproj|A:\\C\u002B\u002B\\Training\\CPP_Practice\\Games\\Swap\\Swap.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{088F50FA-763D-4DB9-B922-BC0835ECCF3F}|Swap\\Swap.vcxproj|solutionrelative:Swap\\Swap.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EF63EF8E-7E1C-451E-A699-5BD1DFA79853}|Referencing\\Referencing.vcxproj|A:\\C\u002B\u002B\\Training\\CPP_Practice\\Games\\Referencing\\Referencing.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{EF63EF8E-7E1C-451E-A699-5BD1DFA79853}|Referencing\\Referencing.vcxproj|solutionrelative:Referencing\\Referencing.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{C6CE5BF7-48E6-412D-B287-913B1E4D4559}|Game Lobby\\Game Lobby.vcxproj|A:\\C\u002B\u002B\\Training\\CPP_Practice\\Games\\Game Lobby\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C6CE5BF7-48E6-412D-B287-913B1E4D4559}|Game Lobby\\Game Lobby.vcxproj|solutionrelative:Game Lobby\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -67,79 +63,66 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Tic_Tac_Toe_Game.cpp",
-              "DocumentMoniker": "A:\\C\u002B\u002B\\Training\\CPP_Practice\\Games\\Tic_Tac_Toe_Game\\Tic_Tac_Toe_Game.cpp",
-              "RelativeDocumentMoniker": "Tic_Tac_Toe_Game\\Tic_Tac_Toe_Game.cpp",
-              "ToolTip": "A:\\C\u002B\u002B\\Training\\CPP_Practice\\Games\\Tic_Tac_Toe_Game\\Tic_Tac_Toe_Game.cpp",
-              "RelativeToolTip": "Tic_Tac_Toe_Game\\Tic_Tac_Toe_Game.cpp",
-              "ViewState": "AgIAAKsAAAAAAAAAAAAswLkAAAAFAAAAAAAAAA==",
+              "Title": "Lobby.cpp",
+              "DocumentMoniker": "A:\\C\u002B\u002B\\Training\\CPP_Practice\\Games\\Game Lobby\\Lobby.cpp",
+              "RelativeDocumentMoniker": "Game Lobby\\Lobby.cpp",
+              "ToolTip": "A:\\C\u002B\u002B\\Training\\CPP_Practice\\Games\\Game Lobby\\Lobby.cpp",
+              "RelativeToolTip": "Game Lobby\\Lobby.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-11-03T13:29:37.372Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Swap.cpp",
-              "DocumentMoniker": "A:\\C\u002B\u002B\\Training\\CPP_Practice\\Games\\Swap\\Swap.cpp",
-              "RelativeDocumentMoniker": "Swap\\Swap.cpp",
-              "ToolTip": "A:\\C\u002B\u002B\\Training\\CPP_Practice\\Games\\Swap\\Swap.cpp",
-              "RelativeToolTip": "Swap\\Swap.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-11-03T12:24:14.67Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Referencing.cpp",
-              "DocumentMoniker": "A:\\C\u002B\u002B\\Training\\CPP_Practice\\Games\\Referencing\\Referencing.cpp",
-              "RelativeDocumentMoniker": "Referencing\\Referencing.cpp",
-              "ToolTip": "A:\\C\u002B\u002B\\Training\\CPP_Practice\\Games\\Referencing\\Referencing.cpp",
-              "RelativeToolTip": "Referencing\\Referencing.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-11-03T12:08:01.675Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Hangman.cpp",
-              "DocumentMoniker": "A:\\C\u002B\u002B\\Training\\CPP_Practice\\Games\\Hangman\\Hangman.cpp",
-              "RelativeDocumentMoniker": "Hangman\\Hangman.cpp",
-              "ToolTip": "A:\\C\u002B\u002B\\Training\\CPP_Practice\\Games\\Hangman\\Hangman.cpp",
-              "RelativeToolTip": "Hangman\\Hangman.cpp",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAowCgAAAAzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-11-02T13:48:34.266Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "High Scores.cpp",
-              "DocumentMoniker": "A:\\C\u002B\u002B\\Training\\CPP_Practice\\Games\\High Scores\\High Scores.cpp",
-              "RelativeDocumentMoniker": "High Scores\\High Scores.cpp",
-              "ToolTip": "A:\\C\u002B\u002B\\Training\\CPP_Practice\\Games\\High Scores\\High Scores.cpp",
-              "RelativeToolTip": "High Scores\\High Scores.cpp",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAowCIAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-11-02T12:13:48.782Z",
+              "WhenOpened": "2024-11-28T11:22:25.37Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Hero\u0027s Invetory 3.0.cpp",
-              "DocumentMoniker": "A:\\C\u002B\u002B\\Training\\CPP_Practice\\Games\\Hero\u0027s Invetory 3.0\\Hero\u0027s Invetory 3.0.cpp",
-              "RelativeDocumentMoniker": "Hero\u0027s Invetory 3.0\\Hero\u0027s Invetory 3.0.cpp",
-              "ToolTip": "A:\\C\u002B\u002B\\Training\\CPP_Practice\\Games\\Hero\u0027s Invetory 3.0\\Hero\u0027s Invetory 3.0.cpp",
-              "RelativeToolTip": "Hero\u0027s Invetory 3.0\\Hero\u0027s Invetory 3.0.cpp",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB0AAAA4AAAAAAAAAA==",
+              "Title": "Lobby.h",
+              "DocumentMoniker": "A:\\C\u002B\u002B\\Training\\CPP_Practice\\Games\\Game Lobby\\Lobby.h",
+              "RelativeDocumentMoniker": "Game Lobby\\Lobby.h",
+              "ToolTip": "A:\\C\u002B\u002B\\Training\\CPP_Practice\\Games\\Game Lobby\\Lobby.h",
+              "RelativeToolTip": "Game Lobby\\Lobby.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-28T11:17:40.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Player.cpp",
+              "DocumentMoniker": "A:\\C\u002B\u002B\\Training\\CPP_Practice\\Games\\Game Lobby\\Player.cpp",
+              "RelativeDocumentMoniker": "Game Lobby\\Player.cpp",
+              "ToolTip": "A:\\C\u002B\u002B\\Training\\CPP_Practice\\Games\\Game Lobby\\Player.cpp",
+              "RelativeToolTip": "Game Lobby\\Player.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-11-02T10:37:53.056Z",
+              "WhenOpened": "2024-11-28T11:05:30.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Player.h",
+              "DocumentMoniker": "A:\\C\u002B\u002B\\Training\\CPP_Practice\\Games\\Game Lobby\\Player.h",
+              "RelativeDocumentMoniker": "Game Lobby\\Player.h",
+              "ToolTip": "A:\\C\u002B\u002B\\Training\\CPP_Practice\\Games\\Game Lobby\\Player.h",
+              "RelativeToolTip": "Game Lobby\\Player.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-28T10:59:24.698Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Game Lobby.cpp",
+              "DocumentMoniker": "A:\\C\u002B\u002B\\Training\\CPP_Practice\\Games\\Game Lobby\\Game Lobby.cpp",
+              "RelativeDocumentMoniker": "Game Lobby\\Game Lobby.cpp",
+              "ToolTip": "A:\\C\u002B\u002B\\Training\\CPP_Practice\\Games\\Game Lobby\\Game Lobby.cpp",
+              "RelativeToolTip": "Game Lobby\\Game Lobby.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-28T10:58:50.996Z",
               "EditorCaption": ""
             }
           ]

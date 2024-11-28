@@ -1,0 +1,3 @@
+﻿  Pointing.cpp
+A:\C++\Training\CPP_Practice\Games\Pointing\Pointing.cpp(10,10): warning C4101: pApointer: неиспользованная локальная переменная
+  Pointing.vcxproj -> A:\C++\Training\CPP_Practice\Games\x64\Debug\Pointing.exe
